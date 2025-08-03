@@ -12,7 +12,7 @@ Power BI
 - Total Bonus: $2.2M
 - Total Salary Allocated: $71.92M
 - Total Employees: 946
-- Total Male:
-- Total Female:
+- Total Male:465
+- Total Female:441
 - Total Unknown: 40
 ### 
