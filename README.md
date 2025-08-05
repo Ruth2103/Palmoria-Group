@@ -16,11 +16,13 @@ Power BI
 - Total Unknown: 40
 - Salary by Region
 
-   -Kaduna: $27.5M
    - Abuja: $24.9M
    - Lagos: $19.5M
+   - Kaduna: $27.5M
 
 ### Exploratory Data Analysis
-- Salary Bands & Location
+1. Salary Bands & Location
+<img width="691" height="391" alt="17544143889334448118047913685638" src="https://github.com/user-attachments/assets/28d71470-d871-46bd-8202-8528b02584e5" />
+
 
 
