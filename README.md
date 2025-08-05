@@ -21,8 +21,11 @@ Power BI
    - Kaduna: $27.5M
 
 ### Exploratory Data Analysis
-1. Salary Bands & Location
 <img width="691" height="391" alt="17544143889334448118047913685638" src="https://github.com/user-attachments/assets/28d71470-d871-46bd-8202-8528b02584e5" />
+1. Salary Bands & Location
 
+Most employees (202) earn above $100K, with significant representation in the $90K range.
+2.Average Salary by Gender and Location
 
+Across all locations, males earn $2,000–$3,000 more on average than females, with the gap most visible in Kaduna and Lagos.
 
