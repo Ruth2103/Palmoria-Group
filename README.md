@@ -25,7 +25,9 @@ Power BI
 1. Salary Bands & Location
 
 Most employees (202) earn above $100K, with significant representation in the $90K range.
+
 2.Average Salary by Gender and Location
 
-Across all locations, males earn $2,000–$3,000 more on average than females, with the gap most visible in Kaduna and Lagos.
+Across all locations, males earn $2,000–$3,000 more on average than females.
 
+3.
