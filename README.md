@@ -8,11 +8,16 @@ This dashboard provides a comprehensive view of Palmoria’s workforce across re
 ### Tool Used
 Power BI
 ### Key Metrics
-- Total Salary: $69.72M
+- Total Salary Allocated: $71.9M
 - Total Bonus: $2.2M
-- Total Salary Allocated: $71.92M
 - Total Employees: 946
 - Total Male:465
 - Total Female:441
 - Total Unknown: 40
-### 
+- Salary by Region
+   -Kaduna: $27.5M
+   - Abuja: $24.9M
+   - Lagos: $19.5M
+
+### Exploratory Data Analysis
+
