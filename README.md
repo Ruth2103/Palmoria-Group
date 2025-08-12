@@ -21,7 +21,8 @@ Power BI
    - Kaduna: $27.5M
 
 ### Exploratory Data Analysis
-<img width="691" height="391" alt="17544143889334448118047913685638" src="https://github.com/user-attachments/assets/28d71470-d871-46bd-8202-8528b02584e5" />
+<img width="689" height="402" alt="17550037965188619050442777163435" src="https://github.com/user-attachments/assets/cd69b681-44e4-4ec3-841c-08ca768d7fc5" />
+
 1. Salary Bands & Location
 
 Most employees (202) earn above $100K, with significant representation in the $90K range.
