@@ -26,8 +26,16 @@ Power BI
 
 Most employees (202) earn above $100K, with significant representation in the $90K range.
 
-2.Average Salary by Gender and Location
+2. Performance Ratings by Gender
+
+Females have higher representation in the ‘Very Good’ category and more consistent ratings overall. Male employees are slightly more concentrated in ‘Average’ and ‘Poor’ ratings.
+
+3. Average Salary by Gender and Location
 
 Across all locations, males earn $2,000–$3,000 more on average than females.
 
-3.
+4. 
+
+5. Average Salary by Department and Gender
+
+Business Development, Services, Accounting, Support, Product management, Sales, Human resources and Legal show notable male salary advantages, while others like Marketing and Engineering have higher female averages.
