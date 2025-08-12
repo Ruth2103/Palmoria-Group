@@ -34,8 +34,15 @@ Females have higher representation in the ‘Very Good’ category and more cons
 
 Across all locations, males earn $2,000–$3,000 more on average than females.
 
-4. 
+4. Gender distribution by Location
+
+Abuja is the most gender-balanced location (158 females vs. 159 males), while Kaduna has the largest workforce and a slightly higher male proportion.
 
 5. Average Salary by Department and Gender
 
 Business Development, Services, Accounting, Support, Product management, Sales, Human resources and Legal show notable male salary advantages, while others like Marketing and Engineering have higher female averages.
+
+6. Gender distribution by department
+
+Most departments show near gender balance, with slight male dominance in Legal, Support, and accounting.
+
